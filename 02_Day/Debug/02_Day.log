@@ -1,0 +1,7 @@
+﻿  02_포인터.c
+C:\Users\PL_7B_014\Desktop\12시반수업자료\C언어복습\02_Day\02_Day\02_포인터.c(24,12): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int *'입니다.
+C:\Users\PL_7B_014\Desktop\12시반수업자료\C언어복습\02_Day\02_Day\02_포인터.c(25,12): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int *'입니다.
+C:\Users\PL_7B_014\Desktop\12시반수업자료\C언어복습\02_Day\02_Day\02_포인터.c(30,12): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int *'입니다.
+C:\Users\PL_7B_014\Desktop\12시반수업자료\C언어복습\02_Day\02_Day\02_포인터.c(31,12): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int *'입니다.
+C:\Users\PL_7B_014\Desktop\12시반수업자료\C언어복습\02_Day\02_Day\02_포인터.c(33,12): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int **'입니다.
+  02_Day.vcxproj -> C:\Users\PL_7B_014\Desktop\12시반수업자료\C언어복습\02_Day\Debug\02_Day.exe

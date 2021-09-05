@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="소스 파일">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="헤더 파일">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="리소스 파일">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="소스 파일\01_반복문">
+      <UniqueIdentifier>{c2f06fc9-6105-4ca5-8c0d-d7c90c4e3d86}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\01_반복문\01_while">
+      <UniqueIdentifier>{de9526c1-f530-4156-acb6-ca87a5805198}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\01_반복문\02_for문">
+      <UniqueIdentifier>{975de744-70f5-42e7-b984-3c156049e219}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\02_배열">
+      <UniqueIdentifier>{eef78318-dc25-4a2a-98e6-b0a713a5be81}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\03_함수">
+      <UniqueIdentifier>{cd625d3c-0448-49a2-8a2c-92912fbdee8f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\04_포인터">
+      <UniqueIdentifier>{fb1c070e-d508-4f99-8fce-d1356ad3c017}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="01_while.c">
+      <Filter>소스 파일\01_반복문\01_while</Filter>
+    </ClCompile>
+    <ClCompile Include="01_for문.c">
+      <Filter>소스 파일\01_반복문\02_for문</Filter>
+    </ClCompile>
+    <ClCompile Include="01_배열.c">
+      <Filter>소스 파일\02_배열</Filter>
+    </ClCompile>
+    <ClCompile Include="01_함수.c">
+      <Filter>소스 파일\03_함수</Filter>
+    </ClCompile>
+    <ClCompile Include="02_함수.c">
+      <Filter>소스 파일\03_함수</Filter>
+    </ClCompile>
+    <ClCompile Include="01_포인터.c">
+      <Filter>소스 파일\04_포인터</Filter>
+    </ClCompile>
+    <ClCompile Include="02_포인터.c">
+      <Filter>소스 파일\04_포인터</Filter>
+    </ClCompile>
+    <ClCompile Include="03_포인터.c">
+      <Filter>소스 파일\04_포인터</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
